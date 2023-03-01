@@ -1,0 +1,10 @@
+{
+  "name": "frc/wp-env-heroku-stackhero-mysql",
+  "license": "MIT",
+  "type": "library",
+  "description": "Export Heroku Stackhero MySQL addon configuration for WordPress.",
+  "keywords": ["Heroku", "WordPress", "Stackhero", "MySQL"],
+  "autoload": {
+    "files": [ "src/stackhero-mysql.php" ]
+  }
+}
